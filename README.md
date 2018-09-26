@@ -11,4 +11,4 @@ npm i -g @foxtail/weekly-report
 ## 注意
 
 请确认安装了 svn 命令
-请自行在 config.js 配置 svn 地址
+请自行在 config/index.js 配置 svn 地址
