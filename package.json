@@ -1,6 +1,6 @@
 {
     "name": "@foxtail/weekly-report",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Weekly Report Tool",
     "main": "main.js",
     "bin": {
