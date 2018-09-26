@@ -1,0 +1,29 @@
+{
+    "name": "@foxtail/weekly-report",
+    "version": "1.0.1",
+    "description": "Weekly Report Tool",
+    "main": "main.js",
+    "bin": {
+        "foxrpt": "./bin/main.js"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "node ./bin/main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TailClub/weekly-report.git"
+    },
+    "keywords": [
+        "weekly",
+        "report"
+    ],
+    "author": "Ronny.Yip",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TailClub/weekly-report/issues"
+    },
+    "homepage": "https://github.com/TailClub/weekly-report#readme"
+}
